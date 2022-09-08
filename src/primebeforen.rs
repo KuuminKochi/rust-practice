@@ -22,3 +22,5 @@ fn main() {
 
     prime_before_n(n);
 }
+
+// buffer

@@ -14,3 +14,5 @@ fn fibonacci(index: usize) {
 fn main() {
     fibonacci(7);
 }
+
+// buffer
