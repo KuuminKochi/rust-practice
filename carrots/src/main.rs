@@ -4,7 +4,7 @@ fn main() {
     // Number of baskets
     let n = [3, 4, 5];
     // Number of carrots in each baskets
-    let c = [vec![3, 5, 2], vec![4, 6, 2, 3], vec![4, 8, 10, 5, 2]];
+    let c = [vec![3, 5, 2], vec![4, 6, 2, 3], vec![4, 8, 10, 5, 3]];
 
     // Make sure that it'll only print for each test case
 
